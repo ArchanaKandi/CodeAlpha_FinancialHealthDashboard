@@ -54,6 +54,7 @@ To create an interactive Power BI dashboard that analyzes a hospital's financial
 - Use trend insights to forecast demand and plan staffing/inventory.
 
 ---
+
 ## Dax and Calculated Fields
 
 **Calculated Fields:**
@@ -63,6 +64,8 @@ EstimatedCashFlow =
     - 'HealthcareFinancialData'[Operating Costs] 
     - 'HealthcareFinancialData'[Supply Cost] 
     - 'HealthcareFinancialData'[Tax]
+
+    
 **Dax Fields:**
 
 Health care Net Profit = SUM('HealthcareFinancialData'[Net Profit])
