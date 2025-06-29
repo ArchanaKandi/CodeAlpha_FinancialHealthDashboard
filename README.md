@@ -84,13 +84,13 @@ Total Supply Cost = SUM('HealthcareFinancialData'[Supply Cost])
 
 ## Screenshots:
 
-![Dashboard Overview](./FinancialDashboardScreenshot.png)
+![Dashboard Overview](./DashboardPreview.png)
 
 ---
 
 ##  LinkedIn Post:
-[View My LinkedIn Submission](https://www.linkedin.com/in/your-profile-link)
+[View My LinkedIn Submission]()
 
 ##  GitHub Repository:
-[View Repository](https://github.com/your-username/CodeAlpha_FinancialHealthDashboard)
+[View Repository](https://github.com/ArchanaKandi/CodeAlpha_FinancialHealthDashboard)
 
